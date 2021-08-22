@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.2" xml:lang="en-US">
+  <compounddef id="namespacehello__world" kind="namespace" language="C++">
+    <compoundname>hello_world</compoundname>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="namespacehello__world_1abaf162968aec29f1dcdf0d377966b2f0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void hello_world::say_hello</definition>
+        <argsstring>(std::string *t_output=nullptr)</argsstring>
+        <name>say_hello</name>
+        <param>
+          <type>std::string *</type>
+          <declname>t_output</declname>
+          <defval>nullptr</defval>
+        </param>
+        <briefdescription>
+<para>outputs &quot;Hello World!&quot; in the stream. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>t_output</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>testing optional parameter. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="/home/marcus/+projects/cmake/cmake-template/include/hello-world/hello_world.hpp" line="31" column="6" declfile="/home/marcus/+projects/cmake/cmake-template/include/hello-world/hello_world.hpp" declline="31" declcolumn="6"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>library namespace </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/marcus/+projects/cmake/cmake-template/include/hello-world/hello_world.hpp" line="24" column="1"/>
+  </compounddef>
+</doxygen>

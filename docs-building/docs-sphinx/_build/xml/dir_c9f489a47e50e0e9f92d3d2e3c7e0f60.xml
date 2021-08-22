@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.2" xml:lang="en-US">
+  <compounddef id="dir_c9f489a47e50e0e9f92d3d2e3c7e0f60" kind="dir">
+    <compoundname>/home/marcus/+projects/cmake/cmake-template/include/hello-world</compoundname>
+    <innerfile refid="hello__world_8hpp">hello_world.hpp</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/marcus/+projects/cmake/cmake-template/include/hello-world/"/>
+  </compounddef>
+</doxygen>

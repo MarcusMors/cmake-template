@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.2" xml:lang="en-US">
+  <compound refid="namespacehello__world" kind="namespace"><name>hello_world</name>
+    <member refid="namespacehello__world_1abaf162968aec29f1dcdf0d377966b2f0" kind="function"><name>say_hello</name></member>
+  </compound>
+  <compound refid="hello__world_8hpp" kind="file"><name>hello_world.hpp</name>
+  </compound>
+  <compound refid="dir_c9f489a47e50e0e9f92d3d2e3c7e0f60" kind="dir"><name>/home/marcus/+projects/cmake/cmake-template/include/hello-world</name>
+  </compound>
+  <compound refid="dir_d44c64559bbebec7f509842c48db8b23" kind="dir"><name>/home/marcus/+projects/cmake/cmake-template/include</name>
+  </compound>
+</doxygenindex>
