@@ -1,6 +1,14 @@
 # build
 build
 
+# IDE and text editor
+.vscode
+.pytest_cache
+
+# images
+*.png
+*.jpg
+
 # Prerequisites
 *.d
 

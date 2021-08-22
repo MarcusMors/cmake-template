@@ -1,6 +1,10 @@
 cmake_minimum_required(VERSION 3.12)
 
-project(cmake_hello_world_lib VERSION 1.0.0)
+project(
+  cmake_hello_world_lib
+  VERSION 1.0.0
+  DESCRIPTION "c++ hello world library"
+  HOMEPAGE_URL https://github.com/MarcusMors/cmake-template)
 
 option(BUILD_DOC "Build Documentation" ON)
 
